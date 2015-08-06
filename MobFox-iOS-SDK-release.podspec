@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
-  #  Licensing your code is important. See http://choosealicense.com for more info.
+  #  Licensing your code is important. See http://choosealicense.coMobFox-iOS-SDK-pod.podspecm for more info.
   #  CocoaPods will detect a license file if there is a named LICENSE*
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
@@ -61,7 +61,7 @@ Pod::Spec.new do |s|
   #
   #  If this Pod runs only on iOS or OS X, then specify the platform and
   #  the deployment target. You can optionally include the target after the platform.
-  #
+  #MobFox-iOS-SDK-pod.podspec
 
   # s.platform     = :ios
   s.platform     = :ios
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/nabriski/MobFox-iOS-SDK-pod.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/nabriski/MobFox-iOS-SDK-pod.git", :tag => "0.0.2b" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
