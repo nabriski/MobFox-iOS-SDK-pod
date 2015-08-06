@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "MobFox-iOS-SDK-pod"
+  s.name         = "MobFox-iOS-SDK-debug"
   s.version      = "0.0.2"
   s.summary      = "A pod for the MobFox iOS SDK - debug version"
 
