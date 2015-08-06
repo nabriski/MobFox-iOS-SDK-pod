@@ -62,7 +62,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  s.platform     = :ios, "7.0"
+  s.platform     = :ios
 
   #  When using multiple platformsMobFox-iOS-SDK-pod
   # s.ios.deployment_target = "5.0"
