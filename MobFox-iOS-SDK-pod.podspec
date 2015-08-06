@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
                    DESC
 
-  s.homepage     = "http://EXAMPLE/MobFox-iOS-SDK-pod"
+  s.homepage     = "https://github.com/nabriski/MobFox-iOS-SDK-pod"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -76,7 +76,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/MobFox-iOS-SDK-pod.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/nabriski/MobFox-iOS-SDK-pod.git", :tag => "v0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
